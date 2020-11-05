@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\ProfesyonelBackend\ReflectionOrnekleri\ReflectionOrnekleri\bin\Debug\ReflectionOrnekleri.exe.config
+C:\Users\DELL\Desktop\ProfesyonelBackend\ReflectionOrnekleri\ReflectionOrnekleri\bin\Debug\ReflectionOrnekleri.exe
+C:\Users\DELL\Desktop\ProfesyonelBackend\ReflectionOrnekleri\ReflectionOrnekleri\bin\Debug\ReflectionOrnekleri.pdb
+C:\Users\DELL\Desktop\ProfesyonelBackend\ReflectionOrnekleri\ReflectionOrnekleri\obj\Debug\ReflectionOrnekleri.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\ProfesyonelBackend\ReflectionOrnekleri\ReflectionOrnekleri\obj\Debug\ReflectionOrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ProfesyonelBackend\ReflectionOrnekleri\ReflectionOrnekleri\obj\Debug\ReflectionOrnekleri.exe
+C:\Users\DELL\Desktop\ProfesyonelBackend\ReflectionOrnekleri\ReflectionOrnekleri\obj\Debug\ReflectionOrnekleri.pdb
